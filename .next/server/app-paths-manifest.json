@@ -1,0 +1,9 @@
+{
+  "/not-found": "app/not-found.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(full-page)/page": "app/(full-page)/page.js",
+  "/(full-page)/auth/login/page": "app/(full-page)/auth/login/page.js",
+  "/(full-page)/auth/access/page": "app/(full-page)/auth/access/page.js",
+  "/(main)/pages/crud/page": "app/(main)/pages/crud/page.js",
+  "/(full-page)/auth/register/page": "app/(full-page)/auth/register/page.js"
+}
