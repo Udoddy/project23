@@ -367,7 +367,7 @@ const Crud = () => {
                         </div>
                         <div className="field">
                             <label htmlFor="description">Email Address</label>
-                            <InputText id="description" value={product.description} onChange={(e) => onInputChange(e, 'description')} required rows={3} cols={20} />
+                            <InputText id="description" value={product.description} onChange={(e) => onInputChange(e, 'description')} required />
                         </div>
 
                         {/*<div className="field">*/}
